@@ -11,5 +11,7 @@ The report provides a clear overview of sales performance, customer behavior, an
 
 📁 [View Report](https://app.powerbi.com/reportEmbed?reportId=433f0535-b396-43bf-a9fd-b169473bcb92&autoAuth=true&ctid=44e3cf94-19c9-4e32-96c3-14f5bf01391a) 
 
+---
+
 # 2. Salary dataset visualizatoin Jupyter Notebook
-Cleaning the raw dataset [Dataset salary 2024.csv](Dataset salary 2024.csv) and performing visualizations in Jupyter Notebook using Pandas, NumPy, Matplotlib, and Seaborn.
+Cleaning the raw dataset "Dataset salary 2024.csv" and performing visualizations in Jupyter Notebook using Pandas, NumPy, Matplotlib, and Seaborn.
